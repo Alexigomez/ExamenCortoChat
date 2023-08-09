@@ -1,0 +1,288 @@
+.Cua1{
+  border-radius: 32px;
+  margin-left: 0px;
+  width: 229px;
+  height: 670px;
+  background-color: #273534;
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Icon{
+    margin-right: 0px;
+}
+.ini{
+    border-radius: 32px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(32, 31, 31);
+}
+.IMA{
+    display: flex;
+    border-radius: 32px;
+    width: 50px;
+    height: auto;
+}
+.color{
+    color: rgb(255, 255, 255);
+}
+.mask{
+    border-radius: 5px;
+    position: absolute;
+    top: 25%;
+    left: 6%;
+    width: px; 
+    height: 25px;
+    font-size: 9px;
+    font-weight: bold;   
+}
+.plug{
+    border-radius: 5px;
+    position: absolute;
+    top: 25%;
+    left: 12%;
+    width: px; 
+    height: 25px;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.cuadro2{    
+    position: absolute;
+    top: 33%;
+    border-radius: 15px;
+    margin-left: 0px;
+    margin-top: 5px;
+    width: 200px;
+    height: 50px;
+    background-color: #171b19;
+    border: 1px solid #08c5ff; 
+}
+.colorle{
+    color: aliceblue;
+}
+
+.colorler{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    margin-left: 0px;
+    margin-top: 1px;
+    font-size: 15px;
+}
+
+.confi{
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 3%;
+    top: 111%;
+    transform: translateX(-20%);
+    width: 30px; 
+    height: 25px;
+    background-color: #f0f0f7;
+    border-top: 3px solid #ffffff;
+}
+
+.git{
+    border-radius: 5px;
+    position: absolute;
+    top: 111%;
+    left: 6%;
+    width: 30px; 
+    height: 25px;
+    background-color: #f0f0f7;
+    border-top: 3px solid #ffffff
+}
+.Nue{
+    border-radius: 5px;
+    position: absolute;
+    top: 111%;
+    left: 14%;
+    width: px; 
+    height: 25px;
+    border-top: 3px solid #ffffff;
+    background-color: #f0f0f7;
+    color: rgb(1, 1, 2);
+    font-size: 9px;
+    font-weight: bold;   
+}
+.Cua3{
+    position: absolute;
+    top: 2%;
+    left: 22%;
+    width: 40%; 
+    padding: 10px;
+ 
+ 
+}
+
+.GPt{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    display: flex;
+    border-radius: 32px;
+    width: 30px;
+    height: auto;
+
+}
+.Cua4{
+    align-items: center;
+    position: absolute;
+    top: 31%;
+    left: 24%;
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    color: #f0f0f7;
+ 
+}
+.Herramientas{
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 98%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 15px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+ 
+}
+.flehc{
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 95.6%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 15px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+}
+.lapis{
+    border-radius: 5px;
+    position: absolute;
+    bottom: 0;
+    left: 93.3%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 15px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+}
+
+.Cuadro5{
+    align-items: center;
+    position: absolute;
+    top: 90%;
+    left: 21%;
+    width: 80%;
+    height: 147px;
+    border-top: 1px solid #fff;
+
+}
+.He{
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 18px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff
+
+}
+.AC{
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    left: 5%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 18px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+}
+.var{
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    left: 8%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 18px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+
+}
+.OSo{
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    left: 11%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 18px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+}
+.CuadroRo{
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    left: 14%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 18px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+}
+.Robot{
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+    left: 17%;
+    top: 4%;
+    transform: translateX(-20%);
+    width: 18px; 
+    height: 15px;
+    background-color: #f0f0f7;
+    border: 5px solid #fff;
+}
+.Cua5{ 
+    align-items: center;
+    position: absolute;
+    top: 97%;
+    left: 22%;
+    width: 75%;
+    height: 70px;
+    border-radius: 10px;
+    color: #f0f0f7;
+    border: 1px solid #08c5ff;
+}
+
+.Enviar{
+    position: absolute;
+    top: 105%;
+    left: 96%;
+    display: flex;
+    border-radius: 5px;
+    width: 30px; 
+    height: 25px;
+    background-color: #f0f0f7;
+
+}
